@@ -1,0 +1,14 @@
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\bin\Debug\net9.0\Exercicios_POO.exe
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\bin\Debug\net9.0\Exercicios_POO.deps.json
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\bin\Debug\net9.0\Exercicios_POO.runtimeconfig.json
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\bin\Debug\net9.0\Exercicios_POO.dll
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\bin\Debug\net9.0\Exercicios_POO.pdb
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.AssemblyInfoInputs.cache
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.AssemblyInfo.cs
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.csproj.CoreCompileInputs.cache
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.dll
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\refint\Exercicios_POO.dll
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.pdb
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.genruntimeconfig.cache
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\ref\Exercicios_POO.dll
