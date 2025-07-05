@@ -12,3 +12,4 @@ C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\refi
 C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.pdb
 C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.genruntimeconfig.cache
 C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\ref\Exercicios_POO.dll
+C:\Users\cecil\RiderProjects\Exercicios_POO\Exercicios_POO\obj\Debug\net9.0\Exercicios_POO.sourcelink.json

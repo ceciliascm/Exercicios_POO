@@ -43,22 +43,7 @@ O construtor deve ter o mesmo nome da classe.
 Use Console.WriteLine() para imprimir as informações no método ExibirInformacoes().
  */
 namespace Exercicios_POO;
-class Ex1 {
-    private static void Main(string[] args) {
-        Book[] book = new Book[2];
-    
-        book[0] = new Book("Dom Quixote", "Miguel de Cervantes", 893);
-        book[1] = new Book("Cem Anos de Solidão", " Gabriel García Márquez",  417);
-    
-    
-        for (int i = 0; i < book.Length; i++)
-        {
-            book[i].ShowInfo();
-        }
-    }
-}
-
-class Book {
+public class Book {
     public String title;
     public String writer;
     public int numberPages;
